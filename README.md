@@ -1,2 +1,2 @@
 # ChildrenOfJupyterDatasets
-The original data can be found in www.pordata.pt.
+Some of the original data can be found in www.pordata.pt.
